@@ -1,4 +1,4 @@
-# StreamSpot Website
+# xStream Website
 
 <img src="https://github.com/cmuxstream/cmuxstream.github.io/raw/master/img/xstream-logo.jpg" height="150" align="right"/>
 
