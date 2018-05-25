@@ -1,6 +1,0 @@
-Java -Xms100m -Xmx1000m stochastic.Main  "4035"
-Java -Xms100m -Xmx1000m stochastic.Main  "4036"
-Java -Xms100m -Xmx1000m stochastic.Main  "4037"
-Java -Xms100m -Xmx1000m stochastic.Main  "4038"
-Java -Xms100m -Xmx1000m stochastic.Main  "4039"
-Java -Xms100m -Xmx1000m stochastic.Main  "4041"
