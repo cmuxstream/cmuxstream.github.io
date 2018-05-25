@@ -35,25 +35,28 @@
   <div class="container">
     <section class="header">
       <div>
-        <img class="logo" src="img/xstream-logo.jpg" width="75"/>
+        <img class="logo" src="https://avatars0.githubusercontent.com/u/36132856?s=400&u=b4beebdfa1c1ec0fbd95dd1522bb157e63883fc4&v=4" width="75"/>
         <h1 class="title">xStream</h1>
       </div>
-      <h4 class="subtitle">Outlier Dete'x'ion in Feature-Evolving Data Streams</h4>
+      <h4 class="subtitle">Outlier Detection in Feature-Evolving Data Streams</h4>
     </section>
     <section class="summary">
       <p>
-      xStream <b>detects</b> outliers in streaming settings, where samples and feature are both streaming.
+        xStream detects outliers in <b>feature-evolving data streams</b>, where new samples arrive as a stream,
+        and the feature-space is unknown and evolves over time.
       </p>
       <p>
-      xStream is <b>accurate</b> as exhibhited on 3 settings: (a) Static (Known d, Known n), (b) Row-Streaming (Known d, Unknown n) and (c) Evolving Feature (Unknown d, Unknown n)
+        xStream is <b>accurate</b> in all three settings: (i) static data, (ii) row-streams, and (iii) feature-evolving streams,
+        as demonstrated over multiple datasets in each setting.
       </p>
       <p>
-      xStream is <b>efficient</b> with lesser run-time and memory requirements than other counterparts.
+        xStream <b>scales</b> to over 1,000 point updates per-second (as witnessed on a commodity Xeon® machine running at 2.1GHz)
+        while consuming bounded space that is user-configurable.
       </p>
       <p class="alert" style="text-align:left;">
         Emaad Manzoor, Hemank Lamba, Leman Akoglu.
         Outlier Dete'x'ion in Feature-Evolving Data Streams.
-        In <i>KDD</i>. 2018.
+        In <i>24th ACM SIGKDD International Conference on Knowledge Discovery and Data mining (KDD).</i> 2018.
       </p>
     </section>
     <section class="code-links">
